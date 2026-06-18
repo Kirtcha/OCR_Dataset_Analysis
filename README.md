@@ -17,7 +17,3 @@ EDA project performed on a custom OCR dataset created for a bachelor's thesis.
 - Character variability analysis
 - Statistical summaries
 
-## Conclusions
-- Most frequent character: X
-- Least frequent character: Y
-- Highest variability: Z
